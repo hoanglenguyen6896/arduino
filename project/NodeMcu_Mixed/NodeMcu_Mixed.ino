@@ -2,6 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266mDNS.h>
 
+#include "NodeMcu_Mixed_Defines.h"
+
 #include "DhtApp.h"
 #include "WebHtml.h"
 #include "Led74Hc.h"

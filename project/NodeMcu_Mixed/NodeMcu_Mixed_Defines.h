@@ -43,5 +43,7 @@ typedef struct
     uint8_t h;
 } TimeStruct_Type;
 
+extern TimeStruct_Type currentTime;
+
 
 #endif /* NODEMCU_MIXED_DEFINES_H */
